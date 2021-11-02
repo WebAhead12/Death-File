@@ -9,6 +9,28 @@
     <title>Document</title>
   </head>
 
-  <body></body>
-  <script src="script.js"></script>
+  <body>
+    <div class="container-out">
+      <div class="container-in">
+        <div class="search-container">
+          <div class="search-engine">
+            <p class="search-title">Search Anime</p>
+            <input
+              type="input"
+              id="search-input"
+              autocomplete="off"
+              placeholder="Hit Enter to Search"
+            />
+            <button id="search-button">Search</button>
+          </div>
+          <div id="search-results"></div>
+          <div id="search-data"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js">
+    //modify JS function for autocomplete below
+    // autocomplete(document.getElementById("search-input"), drinkObj);
+  </script>
 </html>
