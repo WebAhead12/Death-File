@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="front_end/style.css" />
 
     <title>Document</title>
   </head>
@@ -15,13 +15,13 @@
         <div class="search-container">
           <div class="search-engine">
             <p class="search-title">Search Anime</p>
+            <!-- <img class="search-icon" src="front_end/search-icon.png" /> -->
             <input
               type="input"
               id="search-input"
               autocomplete="off"
               placeholder="Hit Enter to Search"
             />
-            <button id="search-button">Search</button>
           </div>
           <div id="search-results"></div>
           <div id="search-data"></div>
@@ -29,8 +29,8 @@
       </div>
     </div>
   </body>
-  <script src="script.js">
+  <script src="front_end/script.js">
     //modify JS function for autocomplete below
-    // autocomplete(document.getElementById("search-input"), drinkObj);
+    autocomplete(document.getElementById("search-input"), drinkObj);
   </script>
 </html>

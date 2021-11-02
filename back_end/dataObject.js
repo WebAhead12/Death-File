@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     anime_id: 32281,
     name: "Kimi no Na wa.",

@@ -1,32 +1,16 @@
 const fs = require("fs");
 const path = require("path");
-
-const types = {
-  html: "text/html",
-  css: "text/css",
-  js: "application/javascript",
-};
-
 function homeHandler(request, response) {
-  // I WAS MISSING THIS.
-  const url = request.url;
-  const urlArray = url.split(".");
-  const extension = urlArray[1];
-  const type = types[extension];
-
-
-  // home directory is one level above this, so we need the ".."
-  const filePath = path.join(__dirname, "..", url);
+  const filePath = path.join(__dirname, "..", "front_end", "index.html");
   fs.readFile(filePath, (error, file) => {
     if (error) {
       console.log(error);
       response.writeHead(404, { "content-type": "text/html" });
-      response.end("<h1>Not found</h1>");
+      response.end("Not found");
     } else {
-      response.writeHead(200, { "content-type": type });
+      response.writeHead(200, { "Content-Type": "text/html" });
       response.end(file);
     }
   });
 }
-
 module.exports = homeHandler;
