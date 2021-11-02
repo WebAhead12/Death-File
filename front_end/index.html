@@ -4,8 +4,17 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="front_end/style.css" />
-
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
+      rel="stylesheet"
+    />
     <title>Document</title>
   </head>
 
@@ -16,12 +25,18 @@
           <div class="search-engine">
             <p class="search-title">Search Anime</p>
             <!-- <img class="search-icon" src="front_end/search-icon.png" /> -->
-            <input
-              type="input"
-              id="search-input"
-              autocomplete="off"
-              placeholder="Hit Enter to Search"
-            />
+            <div class="input-append">
+              <input
+                type="input"
+                id="search-input"
+                autocomplete="off"
+                placeholder="Hit Enter to Search"
+              />
+              <div id="button-holder">
+                <i class="icon-search"></i>
+              </div>
+              <!-- <img src="search-icon.png" /> -->
+            </div>
           </div>
           <div id="search-results"></div>
           <div id="search-data"></div>
