@@ -5,7 +5,6 @@ const types = {
   html: "text/html",
   css: "text/css",
   js: "application/javascript",
-
 };
 
 function homeHandler(request, response) {

@@ -1,4 +1,4 @@
-e// put .. so we can go back into anime_project, then go into handlers, then home.
+// put .. so we can go back into anime_project, then go into handlers, then home.
 const homeHandler = require("../handlers/home");
 const missingHandler = require("../Handlers/missing");
 
