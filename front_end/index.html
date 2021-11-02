@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
 
-    <title>Document</title>
-  </head>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
 
-  <body>
-    <div class="container-out">
-      <div class="container-in">
-        <div class="search-container">
-          <div class="search-engine">
-            <p class="search-title">Search Anime</p>
-            <input
-              type="input"
-              id="search-input"
-              autocomplete="off"
-              placeholder="Hit Enter to Search"
-            />
-          </div>
-          <div id="search-results"></div>
-          <div id="search-data"></div>
+  <title>Document</title>
+</head>
+
+<body>
+  <div class="container-out">
+    <div class="container-in">
+      <div class="search-container">
+        <div class="search-engine">
+          <p class="search-title">Search Anime</p>
+          <input type="input" id="search-input" autocomplete="off" placeholder="Hit Enter to Search" />
+          <button id="search-button">Search</button>
         </div>
+        <div id="search-results"></div>
+        <div id="search-data"></div>
       </div>
     </div>
-  </body>
-  <script src="script.js"></script>
+  </div>
+</body>
+<script src="script.js">
+  //modify JS function for autocomplete below
+  autocomplete(document.getElementById("search-input"), drinkObj);
+</script>
+
 </html>

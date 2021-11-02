@@ -1,0 +1,15 @@
+const drinkObj {
+  name: "water",
+  name: "apple juice",
+  name: "sprite",
+  name: "fanta",
+  name: "coca cola",
+  name: "XL",
+  name: "Blu",
+  name: "orange juice",
+  name: "carrot juice",
+  name: "grape juice",
+  name: "soda water",
+  name: "gatorade",
+  name: "powerade",
+}

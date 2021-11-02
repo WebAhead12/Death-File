@@ -16,7 +16,6 @@ function homeHandler(request, response) {
   const type = types[extension];
 
 
-
   // home directory is one level above this, so we need the ".."
   const filePath = path.join(__dirname, "..", url);
   fs.readFile(filePath, (error, file) => {
