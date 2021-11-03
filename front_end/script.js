@@ -17,10 +17,21 @@ searchinput.addEventListener("keyup", () => {
 });
 
 close.addEventListener("click", () => {
-  console.log(searchinput);
   searchinput.value = "";
+  inputwrapper.style["border-radius"] = "0.5rem";
+  hr.style["display"] = "none";
+  searchresult.innerHTML = "";
 });
 
+window.addEventListener("click", () => {
+  searchinput.value = "";
+  inputwrapper.style["border-radius"] = "0.5rem";
+  hr.style["display"] = "none";
+  searchresult.innerHTML = "";
+});
+document.querySelector(".result-wrapper").addEventListener("click", (event) => {
+  event.stopPropagation();
+});
 function getAnimeNames() {
   fetch(`data/${searchinput.value}`)
     .then((response) => {
