@@ -5,8 +5,12 @@ const close = document.querySelector("#closeIcon");
 searchinput.addEventListener("keyup", () => {
   searchresult.innerHTML = "";
   if (searchinput.value == "") {
+    document.querySelector(".input-wrapper").style["border-radius"] = "0.5rem";
+    document.querySelector("hr").style["display"] = "none";
     searchresult.innerHTML = "";
   } else {
+    document.querySelector(".input-wrapper").style["border-radius"] = " 0.5rem 0.5rem 0 0";
+    document.querySelector("hr").style["display"] = "block";
     getAnimeNames();
   }
 });
