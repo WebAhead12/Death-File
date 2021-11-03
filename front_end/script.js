@@ -2,7 +2,11 @@ const searchinput = document.querySelector("#search-input");
 const searchresult = document.querySelector("#search-results");
 searchinput.addEventListener("keyup", () => {
   searchresult.innerHTML = "";
-  getAnimeNames();
+  if (searchinput.value == "") {
+    searchresult.innerHTML = "";
+  } else {
+    getAnimeNames();
+  }
 });
 function getAnimeNames() {
   fetch(`data/${searchinput.value}`)
@@ -12,7 +16,7 @@ function getAnimeNames() {
       return response.json();
     })
     .then((data) => {
-      console.log(data);
+      // console.log(data);
       buildList(data);
     })
     .catch((error) => {
@@ -21,11 +25,13 @@ function getAnimeNames() {
 }
 
 function buildList(data) {
+  console.log(data);
   data.forEach((element) => {
     let resultbox = document.createElement("span");
     resultbox.classList.add("result-box");
+    resultbox["textContent"] = element;
+    console.log(resultbox);
     searchresult.appendChild(resultbox);
-    resultbox.textContent = element["name"];
     // resultbox.addEventListener("click", getAnimeNames());
   });
 }
