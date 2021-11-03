@@ -123,9 +123,9 @@ button.big-button:active::before {
   font-family: "Roboto Mono", monospace;
   text-align: center;
   margin-bottom: 10%;
-  text-shadow: 0.2rem 0.1rem 0rem #f1ff2c;
+  text-shadow: 0.2rem 0.1rem .3rem #f1ff2c, -0.2rem -0.1rem .4rem #f1ff2c, -0.2rem 0.1rem .3rem #f1ff2c, 0.2rem -0.1rem .3rem #f1ff2c ;
   top: 0;
-  padding-bottom: 30%;
+  padding-bottom: 60px;
 }
 .main {
   display: flex;
@@ -145,7 +145,7 @@ button.big-button:active::before {
   background-color: #e26d5c;
   border-radius: 0 0 0.5rem 0.5rem;
   color: white;
-  padding-left: 60px;
+  padding-left: 20px;
   max-height: 40vh;
   overflow-y: scroll;
   /* border-top: 1px solid rgb(253, 255, 139); */
