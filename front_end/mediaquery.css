@@ -6,11 +6,8 @@
 }
 
   .results-wrapper {
-    top: 25%;
-left:  10%;
-width: 40vw;
-height: 20px;
-position:fixed;
+margin: 40px auto;
+width:unset;
   }
 
 

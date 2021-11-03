@@ -140,6 +140,7 @@ button.big-button:active::before {
 
 .main {
   display: flex;
+  flex-wrap: wrap-reverse;
   margin-bottom: auto;
 }
 .results-wrapper {
