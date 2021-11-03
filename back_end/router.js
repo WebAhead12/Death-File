@@ -6,7 +6,6 @@ const dataHandler = require("../Handlers/data.js");
 
 function router(request, response) {
   const url = request.url;
-  console.log(url);
   if (url === "/") {
     homeHandler(request, response);
   } else if (url.includes("front_end")) {

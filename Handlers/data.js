@@ -3,7 +3,6 @@ const path = require("path");
 const dataObject = require("../back_end/dataObject.js");
 // const AUTOCOMPLETE_LENGTH = 8;
 function dataHandler(request, response) {
-  console.log(request.url);
   const url = request.url;
   const urlArray = url.split("/");
   let value = urlArray[2];
