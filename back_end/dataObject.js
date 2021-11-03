@@ -155,8 +155,7 @@ module.exports = [
   {
     anime_id: 24701,
     name: "Mushishi Zoku Shou 2nd Season",
-    genre:
-      "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
     type: "TV",
     episodes: 10,
     rating: 8.88,
@@ -246,8 +245,7 @@ module.exports = [
   {
     anime_id: 21939,
     name: "Mushishi Zoku Shou",
-    genre:
-      "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
     type: "TV",
     episodes: 10,
     rating: 8.8,
@@ -256,8 +254,7 @@ module.exports = [
   {
     anime_id: 457,
     name: "Mushishi",
-    genre:
-      "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
     type: "TV",
     episodes: 26,
     rating: 8.78,
@@ -302,8 +299,7 @@ module.exports = [
   {
     anime_id: 28957,
     name: "Mushishi Zoku Shou: Suzu no Shizuku",
-    genre:
-      "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 8.75,
@@ -438,8 +434,7 @@ module.exports = [
   {
     anime_id: 21329,
     name: "Mushishi Special: Hihamukage",
-    genre:
-      "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
     type: "Special",
     episodes: 1,
     rating: 8.66,
@@ -763,8 +758,7 @@ module.exports = [
   {
     anime_id: 24687,
     name: "Mushishi Zoku Shou: Odoro no Michi",
-    genre:
-      "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",
     type: "Special",
     episodes: 1,
     rating: 8.54,
@@ -1295,8 +1289,7 @@ module.exports = [
   {
     anime_id: 23317,
     name: "Kuroshitsuji: Book of Murder",
-    genre:
-      "Comedy, Demons, Fantasy, Historical, Mystery, Shounen, Supernatural",
+    genre: "Comedy, Demons, Fantasy, Historical, Mystery, Shounen, Supernatural",
     type: "OVA",
     episodes: 2,
     rating: 8.41,
@@ -1332,8 +1325,7 @@ module.exports = [
   {
     anime_id: 33,
     name: "Berserk",
-    genre:
-      "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",
+    genre: "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",
     type: "TV",
     episodes: 25,
     rating: 8.4,
@@ -1531,8 +1523,7 @@ module.exports = [
   {
     anime_id: 6811,
     name: "InuYasha: Kanketsu-hen",
-    genre:
-      "Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",
+    genre: "Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",
     type: "TV",
     episodes: 26,
     rating: 8.37,
@@ -1613,8 +1604,7 @@ module.exports = [
   {
     anime_id: 9130,
     name: "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
-    genre:
-      "Action, Adventure, Martial Arts, Shounen, Super Power, Supernatural",
+    genre: "Action, Adventure, Martial Arts, Shounen, Super Power, Supernatural",
     type: "OVA",
     episodes: 13,
     rating: 8.36,
@@ -1758,8 +1748,7 @@ module.exports = [
   {
     anime_id: 12115,
     name: "Berserk: Ougon Jidai-hen III - Kourin",
-    genre:
-      "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",
+    genre: "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 8.33,
@@ -1777,8 +1766,7 @@ module.exports = [
   {
     anime_id: 121,
     name: "Fullmetal Alchemist",
-    genre:
-      "Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",
+    genre: "Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",
     type: "TV",
     episodes: 51,
     rating: 8.33,
@@ -1832,8 +1820,7 @@ module.exports = [
   {
     anime_id: 813,
     name: "Dragon Ball Z",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "TV",
     episodes: 291,
     rating: 8.32,
@@ -2418,8 +2405,7 @@ module.exports = [
   {
     anime_id: 6171,
     name: "Saint Seiya: The Lost Canvas - Meiou Shinwa",
-    genre:
-      "Action, Adventure, Martial Arts, Shounen, Super Power, Supernatural",
+    genre: "Action, Adventure, Martial Arts, Shounen, Super Power, Supernatural",
     type: "OVA",
     episodes: 13,
     rating: 8.24,
@@ -2554,8 +2540,7 @@ module.exports = [
   {
     anime_id: 4938,
     name: "Tsubasa: Shunraiki",
-    genre:
-      "Action, Adventure, Drama, Fantasy, Magic, Mystery, Romance, Shounen, Supernatural",
+    genre: "Action, Adventure, Drama, Fantasy, Magic, Mystery, Romance, Shounen, Supernatural",
     type: "OVA",
     episodes: 2,
     rating: 8.23,
@@ -3401,8 +3386,7 @@ module.exports = [
   {
     anime_id: 2951,
     name: "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
-    genre:
-      "Action, Comedy, Historical, Mecha, Parody, Samurai, Sci-Fi, Shounen",
+    genre: "Action, Comedy, Historical, Mecha, Parody, Samurai, Sci-Fi, Shounen",
     type: "Special",
     episodes: 1,
     rating: 8.13,
@@ -3753,8 +3737,7 @@ module.exports = [
   {
     anime_id: 12113,
     name: "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
-    genre:
-      "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",
+    genre: "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 8.09,
@@ -4015,8 +3998,7 @@ module.exports = [
   {
     anime_id: 22319,
     name: "Tokyo Ghoul",
-    genre:
-      "Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",
+    genre: "Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",
     type: "TV",
     episodes: 12,
     rating: 8.07,
@@ -4583,8 +4565,7 @@ module.exports = [
   {
     anime_id: 22777,
     name: "Dragon Ball Kai (2014)",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "TV",
     episodes: 61,
     rating: 8.01,
@@ -5241,8 +5222,7 @@ module.exports = [
   {
     anime_id: 6033,
     name: "Dragon Ball Kai",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "TV",
     episodes: 97,
     rating: 7.95,
@@ -5737,8 +5717,7 @@ module.exports = [
   {
     anime_id: 1818,
     name: "Claymore",
-    genre:
-      "Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",
+    genre: "Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",
     type: "TV",
     episodes: 26,
     rating: 7.92,
@@ -6143,8 +6122,7 @@ module.exports = [
   {
     anime_id: 249,
     name: "InuYasha",
-    genre:
-      "Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",
+    genre: "Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",
     type: "TV",
     episodes: 167,
     rating: 7.89,
@@ -6153,8 +6131,7 @@ module.exports = [
   {
     anime_id: 4886,
     name: "InuYasha: Kuroi Tessaiga",
-    genre:
-      "Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",
+    genre: "Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",
     type: "Special",
     episodes: 1,
     rating: 7.89,
@@ -6163,8 +6140,7 @@ module.exports = [
   {
     anime_id: 451,
     name: "InuYasha: Tenka Hadou no Ken",
-    genre:
-      "Adventure, Comedy, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",
+    genre: "Adventure, Comedy, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 7.89,
@@ -6650,8 +6626,7 @@ module.exports = [
   {
     anime_id: 6904,
     name: "Hellsing I: Digest for Freaks",
-    genre:
-      "Action, Horror, Military, Seinen, Super Power, Supernatural, Vampire",
+    genre: "Action, Horror, Military, Seinen, Super Power, Supernatural, Vampire",
     type: "OVA",
     episodes: 1,
     rating: 7.86,
@@ -6750,8 +6725,7 @@ module.exports = [
   {
     anime_id: 226,
     name: "Elfen Lied",
-    genre:
-      "Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",
+    genre: "Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",
     type: "TV",
     episodes: 13,
     rating: 7.85,
@@ -8020,8 +7994,7 @@ module.exports = [
   {
     anime_id: 123,
     name: "Fushigi Yuugi",
-    genre:
-      "Adventure, Comedy, Drama, Fantasy, Historical, Magic, Martial Arts, Romance, Shoujo",
+    genre: "Adventure, Comedy, Drama, Fantasy, Historical, Magic, Martial Arts, Romance, Shoujo",
     type: "TV",
     episodes: 52,
     rating: 7.77,
@@ -8372,8 +8345,7 @@ module.exports = [
   {
     anime_id: 450,
     name: "InuYasha: Kagami no Naka no Mugenjo",
-    genre:
-      "Adventure, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",
+    genre: "Adventure, Demons, Drama, Fantasy, Historical, Romance, Shounen, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 7.75,
@@ -9228,8 +9200,7 @@ module.exports = [
   {
     anime_id: 31821,
     name: "Arslan Senki (TV): Fuujin Ranbu",
-    genre:
-      "Action, Adventure, Drama, Fantasy, Historical, Shounen, Supernatural",
+    genre: "Action, Adventure, Drama, Fantasy, Historical, Shounen, Supernatural",
     type: "TV",
     episodes: 8,
     rating: 7.7,
@@ -9319,8 +9290,7 @@ module.exports = [
   {
     anime_id: 1087,
     name: "Kimagure Orange☆Road",
-    genre:
-      "Comedy, Drama, Romance, School, Shounen, Slice of Life, Super Power",
+    genre: "Comedy, Drama, Romance, School, Shounen, Slice of Life, Super Power",
     type: "TV",
     episodes: 48,
     rating: 7.7,
@@ -9383,8 +9353,7 @@ module.exports = [
   {
     anime_id: 969,
     name: "Tsubasa Chronicle 2nd Season",
-    genre:
-      "Action, Adventure, Drama, Fantasy, Mystery, Romance, Shounen, Supernatural",
+    genre: "Action, Adventure, Drama, Fantasy, Mystery, Romance, Shounen, Supernatural",
     type: "TV",
     episodes: 26,
     rating: 7.7,
@@ -9492,8 +9461,7 @@ module.exports = [
   {
     anime_id: 452,
     name: "InuYasha: Toki wo Koeru Omoi",
-    genre:
-      "Adventure, Comedy, Demons, Drama, Fantasy, Historical, Romance, Shounen, Super Power",
+    genre: "Adventure, Comedy, Demons, Drama, Fantasy, Historical, Romance, Shounen, Super Power",
     type: "Movie",
     episodes: 1,
     rating: 7.69,
@@ -9646,8 +9614,7 @@ module.exports = [
   {
     anime_id: 67,
     name: "Basilisk: Kouga Ninpou Chou",
-    genre:
-      "Action, Adventure, Fantasy, Historical, Romance, Samurai, Supernatural",
+    genre: "Action, Adventure, Fantasy, Historical, Romance, Samurai, Supernatural",
     type: "TV",
     episodes: 24,
     rating: 7.68,
@@ -9800,8 +9767,7 @@ module.exports = [
   {
     anime_id: 617,
     name: "Juubee Ninpuuchou",
-    genre:
-      "Adventure, Fantasy, Historical, Horror, Romance, Shounen, Supernatural",
+    genre: "Adventure, Fantasy, Historical, Horror, Romance, Shounen, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 7.67,
@@ -9999,8 +9965,7 @@ module.exports = [
   {
     anime_id: 3626,
     name: "Mobile Suit Gundam Wing: Operation Meteor",
-    genre:
-      "Action, Adventure, Drama, Mecha, Military, Psychological, Sci-Fi, Space",
+    genre: "Action, Adventure, Drama, Mecha, Military, Psychological, Sci-Fi, Space",
     type: "OVA",
     episodes: 4,
     rating: 7.66,
@@ -10630,8 +10595,7 @@ module.exports = [
   {
     anime_id: 691,
     name: "Yawara!",
-    genre:
-      "Action, Comedy, Drama, Martial Arts, Romance, Slice of Life, Sports",
+    genre: "Action, Comedy, Drama, Martial Arts, Romance, Slice of Life, Sports",
     type: "TV",
     episodes: 124,
     rating: 7.63,
@@ -10757,8 +10721,7 @@ module.exports = [
   {
     anime_id: 449,
     name: "InuYasha: Guren no Houraijima",
-    genre:
-      "Adventure, Comedy, Demons, Drama, Historical, Romance, Shounen, Supernatural",
+    genre: "Adventure, Comedy, Demons, Drama, Historical, Romance, Shounen, Supernatural",
     type: "Movie",
     episodes: 1,
     rating: 7.62,
@@ -10785,8 +10748,7 @@ module.exports = [
   {
     anime_id: 96,
     name: "Mobile Fighter G Gundam",
-    genre:
-      "Adventure, Comedy, Drama, Martial Arts, Mecha, Romance, Sci-Fi, Space, Sports",
+    genre: "Adventure, Comedy, Drama, Martial Arts, Mecha, Romance, Sci-Fi, Space, Sports",
     type: "TV",
     episodes: 49,
     rating: 7.62,
@@ -11200,8 +11162,7 @@ module.exports = [
   {
     anime_id: 218,
     name: "Kidou Senkan Nadesico",
-    genre:
-      "Action, Comedy, Mecha, Military, Parody, Romance, Sci-Fi, Shounen, Space",
+    genre: "Action, Comedy, Mecha, Military, Parody, Romance, Sci-Fi, Shounen, Space",
     type: "TV",
     episodes: 26,
     rating: 7.6,
@@ -11453,8 +11414,7 @@ module.exports = [
   {
     anime_id: 98,
     name: "Mai-HiME",
-    genre:
-      "Action, Comedy, Drama, Fantasy, Magic, Mecha, Romance, School, Shoujo Ai",
+    genre: "Action, Comedy, Drama, Fantasy, Magic, Mecha, Romance, School, Shoujo Ai",
     type: "TV",
     episodes: 26,
     rating: 7.59,
@@ -11742,8 +11702,7 @@ module.exports = [
   {
     anime_id: 1459,
     name: "Uchuu no Kishi Tekkaman Blade",
-    genre:
-      "Action, Adventure, Drama, Mecha, Military, Romance, Sci-Fi, Shounen, Space",
+    genre: "Action, Adventure, Drama, Mecha, Military, Romance, Sci-Fi, Shounen, Space",
     type: "TV",
     episodes: 49,
     rating: 7.58,
@@ -12265,8 +12224,7 @@ module.exports = [
   {
     anime_id: 25389,
     name: "Dragon Ball Z Movie 15: Fukkatsu no F",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "Movie",
     episodes: 1,
     rating: 7.55,
@@ -12446,8 +12404,7 @@ module.exports = [
   {
     anime_id: 165,
     name: "RahXephon",
-    genre:
-      "Action, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi",
+    genre: "Action, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi",
     type: "TV",
     episodes: 26,
     rating: 7.55,
@@ -12978,8 +12935,7 @@ module.exports = [
   {
     anime_id: 142,
     name: "Kamikaze Kaitou Jeanne",
-    genre:
-      "Adventure, Comedy, Demons, Drama, Fantasy, Magic, Mystery, Romance, Shoujo",
+    genre: "Adventure, Comedy, Demons, Drama, Fantasy, Magic, Mystery, Romance, Shoujo",
     type: "TV",
     episodes: 44,
     rating: 7.52,
@@ -13159,8 +13115,7 @@ module.exports = [
   {
     anime_id: 27899,
     name: "Tokyo Ghoul √A",
-    genre:
-      "Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",
+    genre: "Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",
     type: "TV",
     episodes: 12,
     rating: 7.52,
@@ -13511,8 +13466,7 @@ module.exports = [
   {
     anime_id: 9135,
     name: "Fullmetal Alchemist: The Sacred Star of Milos",
-    genre:
-      "Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",
+    genre: "Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",
     type: "Movie",
     episodes: 1,
     rating: 7.5,
@@ -14565,8 +14519,7 @@ module.exports = [
   {
     anime_id: 17505,
     name: "Mushibugyou",
-    genre:
-      "Action, Fantasy, Historical, Martial Arts, Samurai, Shounen, Super Power",
+    genre: "Action, Fantasy, Historical, Martial Arts, Samurai, Shounen, Super Power",
     type: "TV",
     episodes: 26,
     rating: 7.47,
@@ -14701,8 +14654,7 @@ module.exports = [
   {
     anime_id: 1744,
     name: "Wagamama☆Fairy Mirumo de Pon!",
-    genre:
-      "Adventure, Comedy, Drama, Fantasy, Kids, Magic, Romance, School, Shoujo",
+    genre: "Adventure, Comedy, Drama, Fantasy, Kids, Magic, Romance, School, Shoujo",
     type: "TV",
     episodes: 172,
     rating: 7.47,
@@ -15287,8 +15239,7 @@ module.exports = [
   {
     anime_id: 573,
     name: "Saber Marionette J",
-    genre:
-      "Action, Adventure, Comedy, Drama, Harem, Martial Arts, Mecha, Romance, Sci-Fi, Shounen",
+    genre: "Action, Adventure, Comedy, Drama, Harem, Martial Arts, Mecha, Romance, Sci-Fi, Shounen",
     type: "TV",
     episodes: 25,
     rating: 7.45,
@@ -16728,8 +16679,7 @@ module.exports = [
   {
     anime_id: 30694,
     name: "Dragon Ball Super",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "TV",
     episodes: "Unknown",
     rating: 7.4,
@@ -16738,8 +16688,7 @@ module.exports = [
   {
     anime_id: 12231,
     name: "Dragon Ball: Episode of Bardock",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Sci-Fi, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Sci-Fi, Shounen, Super Power",
     type: "Special",
     episodes: 1,
     rating: 7.4,
@@ -17036,8 +16985,7 @@ module.exports = [
   {
     anime_id: 3508,
     name: "Genius Party",
-    genre:
-      "Action, Dementia, Fantasy, Mecha, Music, Psychological, Romance, Sci-Fi",
+    genre: "Action, Dementia, Fantasy, Mecha, Music, Psychological, Romance, Sci-Fi",
     type: "Movie",
     episodes: 7,
     rating: 7.39,
@@ -17253,8 +17201,7 @@ module.exports = [
   {
     anime_id: 104,
     name: "Ayashi no Ceres",
-    genre:
-      "Adventure, Comedy, Drama, Horror, Psychological, Romance, Shoujo, Supernatural",
+    genre: "Adventure, Comedy, Drama, Horror, Psychological, Romance, Shoujo, Supernatural",
     type: "TV",
     episodes: 24,
     rating: 7.38,
@@ -17605,8 +17552,7 @@ module.exports = [
   {
     anime_id: 381,
     name: "Fushigi Yuugi OVA 2",
-    genre:
-      "Adventure, Drama, Fantasy, Historical, Martial Arts, Romance, Shoujo",
+    genre: "Adventure, Drama, Fantasy, Historical, Martial Arts, Romance, Shoujo",
     type: "OVA",
     episodes: 6,
     rating: 7.37,
@@ -21701,8 +21647,7 @@ module.exports = [
   {
     anime_id: 678,
     name: "Shadow Skill: Eigi",
-    genre:
-      "Adventure, Drama, Fantasy, Magic, Martial Arts, Shounen, Super Power",
+    genre: "Adventure, Drama, Fantasy, Magic, Martial Arts, Shounen, Super Power",
     type: "TV",
     episodes: 26,
     rating: 7.24,
@@ -21783,8 +21728,7 @@ module.exports = [
   {
     anime_id: 32313,
     name: "Concrete Revolutio: Choujin Gensou - The Last Song",
-    genre:
-      "Action, Demons, Drama, Fantasy, Mystery, Sci-Fi, Super Power, Supernatural",
+    genre: "Action, Demons, Drama, Fantasy, Mystery, Sci-Fi, Super Power, Supernatural",
     type: "TV",
     episodes: 11,
     rating: 7.23,
@@ -21865,8 +21809,7 @@ module.exports = [
   {
     anime_id: 1397,
     name: "Macross 7",
-    genre:
-      "Action, Adventure, Comedy, Drama, Mecha, Military, Music, Romance, Sci-Fi, Shounen",
+    genre: "Action, Adventure, Comedy, Drama, Mecha, Military, Music, Romance, Sci-Fi, Shounen",
     type: "TV",
     episodes: 49,
     rating: 7.23,
@@ -22172,8 +22115,7 @@ module.exports = [
   {
     anime_id: 5691,
     name: "Rekka no Honoo: Final Burning",
-    genre:
-      "Action, Adventure, Magic, Martial Arts, School, Sci-Fi, Super Power",
+    genre: "Action, Adventure, Magic, Martial Arts, School, Sci-Fi, Super Power",
     type: "Special",
     episodes: 1,
     rating: 7.22,
@@ -22650,8 +22592,7 @@ module.exports = [
   {
     anime_id: 16890,
     name: "Makai Ouji: Devils and Realist",
-    genre:
-      "Comedy, Demons, Fantasy, Historical, Mystery, School, Shoujo, Supernatural",
+    genre: "Comedy, Demons, Fantasy, Historical, Mystery, School, Shoujo, Supernatural",
     type: "TV",
     episodes: 12,
     rating: 7.2,
@@ -22669,8 +22610,7 @@ module.exports = [
   {
     anime_id: 24171,
     name: "Mushibugyou OVA",
-    genre:
-      "Action, Fantasy, Historical, Martial Arts, Samurai, Shounen, Super Power",
+    genre: "Action, Fantasy, Historical, Martial Arts, Samurai, Shounen, Super Power",
     type: "OVA",
     episodes: 3,
     rating: 7.2,
@@ -22931,8 +22871,7 @@ module.exports = [
   {
     anime_id: 149,
     name: "Loveless",
-    genre:
-      "Action, Drama, Fantasy, Mystery, Romance, Shoujo, Shounen Ai, Supernatural",
+    genre: "Action, Drama, Fantasy, Mystery, Romance, Shoujo, Shounen Ai, Supernatural",
     type: "TV",
     episodes: 12,
     rating: 7.19,
@@ -23490,8 +23429,7 @@ module.exports = [
   {
     anime_id: 252,
     name: "Madlax",
-    genre:
-      "Drama, Magic, Military, Mystery, Psychological, Shounen, Supernatural",
+    genre: "Drama, Magic, Military, Mystery, Psychological, Shounen, Supernatural",
     type: "TV",
     episodes: 26,
     rating: 7.17,
@@ -23770,8 +23708,7 @@ module.exports = [
   {
     anime_id: 9723,
     name: "Hakuouki Hekketsuroku Episode 0",
-    genre:
-      "Action, Drama, Harem, Historical, Josei, Samurai, Supernatural, Vampire",
+    genre: "Action, Drama, Harem, Historical, Josei, Samurai, Supernatural, Vampire",
     type: "Special",
     episodes: 1,
     rating: 7.16,
@@ -24221,8 +24158,7 @@ module.exports = [
   {
     anime_id: 1020,
     name: "Honoo no Mirage: Minagiwa no Hangyakusha",
-    genre:
-      "Action, Drama, Historical, Romance, Shoujo, Shounen Ai, Supernatural",
+    genre: "Action, Drama, Historical, Romance, Shoujo, Shounen Ai, Supernatural",
     type: "OVA",
     episodes: 3,
     rating: 7.15,
@@ -25374,8 +25310,7 @@ module.exports = [
   {
     anime_id: 903,
     name: "Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai",
-    genre:
-      "Action, Adventure, Comedy, Demons, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Demons, Fantasy, Martial Arts, Shounen, Super Power",
     type: "Movie",
     episodes: 1,
     rating: 7.11,
@@ -25627,8 +25562,7 @@ module.exports = [
   {
     anime_id: 15933,
     name: "Vassalord.",
-    genre:
-      "Action, Comedy, Fantasy, Mystery, Shounen Ai, Supernatural, Vampire",
+    genre: "Action, Comedy, Fantasy, Mystery, Shounen Ai, Supernatural, Vampire",
     type: "OVA",
     episodes: 1,
     rating: 7.11,
@@ -25835,8 +25769,7 @@ module.exports = [
   {
     anime_id: 169,
     name: "Shingetsutan Tsukihime",
-    genre:
-      "Action, Horror, Mystery, Romance, Super Power, Supernatural, Vampire",
+    genre: "Action, Horror, Mystery, Romance, Super Power, Supernatural, Vampire",
     type: "TV",
     episodes: 12,
     rating: 7.1,
@@ -27141,8 +27074,7 @@ module.exports = [
   {
     anime_id: 22695,
     name: "Dragon Ball Z: Summer Vacation Special",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "Special",
     episodes: 1,
     rating: 7.05,
@@ -27754,8 +27686,7 @@ module.exports = [
   {
     anime_id: 687,
     name: "Tokyo Mew Mew",
-    genre:
-      "Adventure, Comedy, Fantasy, Magic, Romance, Sci-Fi, Shoujo, Supernatural",
+    genre: "Adventure, Comedy, Fantasy, Magic, Romance, Sci-Fi, Shoujo, Supernatural",
     type: "TV",
     episodes: 52,
     rating: 7.04,
@@ -28079,8 +28010,7 @@ module.exports = [
   {
     anime_id: 2832,
     name: "Ani*Kuri15",
-    genre:
-      "Adventure, Comedy, Drama, Fantasy, Game, Magic, Martial Arts, Mecha, School, Sci-Fi, Slice of Life, Super Power, Supernatural",
+    genre: "Adventure, Comedy, Drama, Fantasy, Game, Magic, Martial Arts, Mecha, School, Sci-Fi, Slice of Life, Super Power, Supernatural",
     type: "Special",
     episodes: 15,
     rating: 7.02,
@@ -28818,8 +28748,7 @@ module.exports = [
   {
     anime_id: 22699,
     name: "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Slice of Life, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Slice of Life, Super Power",
     type: "Special",
     episodes: 1,
     rating: 7,
@@ -30889,8 +30818,7 @@ module.exports = [
   {
     anime_id: 554,
     name: "Koutetsu Tenshi Kurumi",
-    genre:
-      "Adventure, Comedy, Drama, Historical, Mecha, Military, Romance, Shounen",
+    genre: "Adventure, Comedy, Drama, Historical, Mecha, Military, Romance, Shounen",
     type: "TV",
     episodes: 24,
     rating: 6.92,
@@ -31493,8 +31421,7 @@ module.exports = [
   {
     anime_id: 219,
     name: "Kidou Senkan Nadesico: The Prince of Darkness",
-    genre:
-      "Action, Comedy, Drama, Mecha, Psychological, Sci-Fi, Shounen, Space",
+    genre: "Action, Comedy, Drama, Mecha, Psychological, Sci-Fi, Shounen, Space",
     type: "Movie",
     episodes: 1,
     rating: 6.9,
@@ -31962,8 +31889,7 @@ module.exports = [
   {
     anime_id: 7254,
     name: "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
-    genre:
-      "Action, Demons, Fantasy, Historical, Military, Shoujo, Supernatural",
+    genre: "Action, Demons, Fantasy, Historical, Military, Shoujo, Supernatural",
     type: "Special",
     episodes: 1,
     rating: 6.88,
@@ -32125,8 +32051,7 @@ module.exports = [
   {
     anime_id: 31147,
     name: "Concrete Revolutio: Choujin Gensou",
-    genre:
-      "Action, Demons, Drama, Fantasy, Mystery, Sci-Fi, Super Power, Supernatural",
+    genre: "Action, Demons, Drama, Fantasy, Mystery, Sci-Fi, Super Power, Supernatural",
     type: "TV",
     episodes: 13,
     rating: 6.87,
@@ -33845,8 +33770,7 @@ module.exports = [
   {
     anime_id: 23067,
     name: "Tenkai Knights",
-    genre:
-      "Action, Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen, Super Power",
     type: "TV",
     episodes: 52,
     rating: 6.82,
@@ -33927,8 +33851,7 @@ module.exports = [
   {
     anime_id: 32379,
     name: "Berserk (2016)",
-    genre:
-      "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",
+    genre: "Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",
     type: "TV",
     episodes: 12,
     rating: 6.81,
@@ -34882,8 +34805,7 @@ module.exports = [
   {
     anime_id: 12503,
     name: "Mirai Nikki (TV): Ura Mirai Nikki",
-    genre:
-      "Action, Comedy, Mystery, Psychological, Shounen, Supernatural, Thriller",
+    genre: "Action, Comedy, Mystery, Psychological, Shounen, Supernatural, Thriller",
     type: "Special",
     episodes: 10,
     rating: 6.79,
@@ -35405,8 +35327,7 @@ module.exports = [
   {
     anime_id: 1136,
     name: "Betterman",
-    genre:
-      "Action, Adventure, Comedy, Drama, Horror, Mecha, Mystery, Psychological, Sci-Fi, Shounen",
+    genre: "Action, Adventure, Comedy, Drama, Horror, Mecha, Mystery, Psychological, Sci-Fi, Shounen",
     type: "TV",
     episodes: 26,
     rating: 6.77,
@@ -35667,8 +35588,7 @@ module.exports = [
   {
     anime_id: 1822,
     name: "The Hakkenden",
-    genre:
-      "Action, Adventure, Demons, Historical, Martial Arts, Samurai, Shounen",
+    genre: "Action, Adventure, Demons, Historical, Martial Arts, Samurai, Shounen",
     type: "OVA",
     episodes: 6,
     rating: 6.77,
@@ -35767,8 +35687,7 @@ module.exports = [
   {
     anime_id: 6714,
     name: "Dragon Ball Z: Atsumare! Gokuu World",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "OVA",
     episodes: 1,
     rating: 6.76,
@@ -36101,8 +36020,7 @@ module.exports = [
   {
     anime_id: 987,
     name: "Dragon Ball GT: Goku Gaiden! Yuuki no Akashi wa Suushinchuu",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
     type: "Special",
     episodes: 1,
     rating: 6.75,
@@ -36498,8 +36416,7 @@ module.exports = [
   {
     anime_id: 1019,
     name: "Honoo no Mirage",
-    genre:
-      "Action, Drama, Historical, Romance, School, Shounen Ai, Supernatural",
+    genre: "Action, Drama, Historical, Romance, School, Shounen Ai, Supernatural",
     type: "TV",
     episodes: 13,
     rating: 6.74,
@@ -36958,8 +36875,7 @@ module.exports = [
   {
     anime_id: 12715,
     name: "The Hakkenden: Shin Shou",
-    genre:
-      "Action, Adventure, Demons, Historical, Martial Arts, Samurai, Shounen",
+    genre: "Action, Adventure, Demons, Historical, Martial Arts, Samurai, Shounen",
     type: "OVA",
     episodes: 7,
     rating: 6.73,
@@ -37130,8 +37046,7 @@ module.exports = [
   {
     anime_id: 225,
     name: "Dragon Ball GT",
-    genre:
-      "Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",
     type: "TV",
     episodes: 64,
     rating: 6.72,
@@ -38067,8 +37982,7 @@ module.exports = [
   {
     anime_id: 1658,
     name: "Karakuri no Kimi",
-    genre:
-      "Action, Comedy, Fantasy, Historical, Horror, Martial Arts, Samurai, Shounen, Supernatural",
+    genre: "Action, Comedy, Fantasy, Historical, Horror, Martial Arts, Samurai, Shounen, Supernatural",
     type: "OVA",
     episodes: 1,
     rating: 6.69,
@@ -40138,8 +40052,7 @@ module.exports = [
   {
     anime_id: 4067,
     name: "Shin Megami Tensei Devil Children",
-    genre:
-      "Action, Adventure, Demons, Fantasy, Game, Kids, Magic, Sci-Fi, Supernatural",
+    genre: "Action, Adventure, Demons, Fantasy, Game, Kids, Magic, Sci-Fi, Supernatural",
     type: "TV",
     episodes: 50,
     rating: 6.63,
@@ -40436,8 +40349,7 @@ module.exports = [
   {
     anime_id: 4068,
     name: "Shin Megami Tensei Devil Children: Light &amp; Dark",
-    genre:
-      "Action, Adventure, Demons, Fantasy, Game, Kids, Magic, Sci-Fi, Supernatural",
+    genre: "Action, Adventure, Demons, Fantasy, Game, Kids, Magic, Sci-Fi, Supernatural",
     type: "TV",
     episodes: 52,
     rating: 6.62,
@@ -43083,8 +42995,7 @@ module.exports = [
   {
     anime_id: 3114,
     name: "Chiisana Kyojin Microman",
-    genre:
-      "Action, Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen, Super Power",
+    genre: "Action, Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen, Super Power",
     type: "TV",
     episodes: 52,
     rating: 6.53,
@@ -43390,8 +43301,7 @@ module.exports = [
   {
     anime_id: 1221,
     name: "Demashita! Powerpuff Girls Z",
-    genre:
-      "Action, Comedy, Magic, School, Sci-Fi, Shoujo, Slice of Life, Super Power",
+    genre: "Action, Comedy, Magic, School, Sci-Fi, Shoujo, Slice of Life, Super Power",
     type: "TV",
     episodes: 52,
     rating: 6.52,
@@ -44894,8 +44804,7 @@ module.exports = [
   {
     anime_id: 1346,
     name: "AD Police",
-    genre:
-      "Adventure, Dementia, Mecha, Mystery, Police, Psychological, Sci-Fi, Thriller",
+    genre: "Adventure, Dementia, Mecha, Mystery, Police, Psychological, Sci-Fi, Thriller",
     type: "OVA",
     episodes: 3,
     rating: 6.47,
@@ -45381,8 +45290,7 @@ module.exports = [
   {
     anime_id: 2008,
     name: "Yawara! Sore Yuke Koshinuke Kids!!",
-    genre:
-      "Action, Comedy, Drama, Martial Arts, Romance, Slice of Life, Sports",
+    genre: "Action, Comedy, Drama, Martial Arts, Romance, Slice of Life, Sports",
     type: "Movie",
     episodes: 1,
     rating: 6.46,
@@ -45445,8 +45353,7 @@ module.exports = [
   {
     anime_id: 8278,
     name: "Biohazard 4: Incubate",
-    genre:
-      "Action, Demons, Horror, Military, Mystery, Police, Supernatural, Thriller",
+    genre: "Action, Demons, Horror, Military, Mystery, Police, Supernatural, Thriller",
     type: "OVA",
     episodes: 1,
     rating: 6.45,
@@ -45707,8 +45614,7 @@ module.exports = [
   {
     anime_id: 159,
     name: "Boukyaku no Senritsu",
-    genre:
-      "Adventure, Fantasy, Horror, Mecha, Psychological, Sci-Fi, Shounen, Space, Supernatural",
+    genre: "Adventure, Fantasy, Horror, Mecha, Psychological, Sci-Fi, Shounen, Space, Supernatural",
     type: "TV",
     episodes: 24,
     rating: 6.44,
@@ -45753,8 +45659,7 @@ module.exports = [
   {
     anime_id: 647,
     name: "Harukanaru Toki no Naka de: Ajisai Yumegatari",
-    genre:
-      "Adventure, Demons, Drama, Fantasy, Historical, Romance, Shoujo, Supernatural",
+    genre: "Adventure, Demons, Drama, Fantasy, Historical, Romance, Shoujo, Supernatural",
     type: "OVA",
     episodes: 2,
     rating: 6.44,
@@ -49282,8 +49187,7 @@ module.exports = [
   {
     anime_id: 231,
     name: "Asagiri no Miko",
-    genre:
-      "Action, Comedy, Drama, Fantasy, Magic, School, Sci-Fi, Shounen, Slice of Life, Super Power, Supernatural",
+    genre: "Action, Comedy, Drama, Fantasy, Magic, School, Sci-Fi, Shounen, Slice of Life, Super Power, Supernatural",
     type: "TV",
     episodes: 26,
     rating: 6.31,
