@@ -1,5 +1,7 @@
 const searchinput = document.querySelector("#search-input");
 const searchresult = document.querySelector("#search-results");
+const close = document.querySelector("#closeIcon");
+
 searchinput.addEventListener("keyup", () => {
   searchresult.innerHTML = "";
   if (searchinput.value == "") {
@@ -8,6 +10,13 @@ searchinput.addEventListener("keyup", () => {
     getAnimeNames();
   }
 });
+
+close.addEventListener("click", () => {
+  console.log(searchinput);
+  searchinput.value = "";
+})
+
+
 function getAnimeNames() {
   fetch(`data/${searchinput.value}`)
     .then((response) => {
