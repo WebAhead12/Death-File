@@ -1,0 +1,60 @@
+@media (min-width: 320px) and (max-width: 589px) {
+.search-title {
+  font-size: 30px;
+}
+
+  .results-wrapper {
+left:  10%;
+width: 40vw;
+height: 20px;
+position:fixed;
+  }
+
+
+  /* //icons */
+#searchIcon {
+    font-size: 10px;
+    display: none;
+  }
+  #closeIcon {
+    font-size: 10px;
+  }
+
+/* //placeholder text */
+  #search-input {
+    height:20px;
+  width:70vw;
+  font-size: 20px
+  }
+
+  #search-results {
+    width:80vw;
+    border-radius: 0 0 0.5rem 0.5rem;
+  }
+
+  .result-box {
+    font-size: 20px;
+  }
+
+/* entire searchbar + icons sans placeholder text */
+.input-wrapper {
+  height:50px;
+  width:80vw;
+}
+
+
+button {
+  position: fixed;
+  right: 30%;
+  top: 8%;
+  font-size: 15px;
+}
+
+} 
+
+@media (min-width: 768) {
+  #search-results {
+  font-size: 100px;
+}
+
+}
