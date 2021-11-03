@@ -1,6 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+
 * {
   font-size: 1.5rem;
+    box-sizing: border-box;
 }
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
 .input-wrapper {
   width: 100%;
   height: 100px;
@@ -37,14 +45,7 @@ input {
   --colorShadeE: rgb(205, 255, 232);
 }
 
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
-* {
-  box-sizing: border-box;
-}
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+
 body {
   font-family: "OpenSans", sans-serif;
   font-size: 3rem;
@@ -55,6 +56,7 @@ body {
   justify-content: center;
   margin: 0;
   min-height: 100vh;
+  padding-bottom: 30px;
   background: var(--backgroundColor);
 }
 
@@ -131,11 +133,7 @@ button.big-button:active::before {
   font-weight: bolder;
   font-family: "Russo One", sans-serif;
   text-align: center;
-  /* margin-bottom: 10%; */
-  /* text-shadow: 0.2rem 0.1rem 0.3rem #f1ff2c, -0.2rem -0.1rem 0.4rem #f1ff2c,
-    -0.2rem 0.1rem 0.3rem #f1ff2c, 0.2rem -0.1rem 0.3rem #f1ff2c; */
-  /* top: 0; */
-  /* padding-top: 7%;
+  /* padding-top: 4%;
   padding-bottom: 4%; */
   /* padding-bottom: 20px; */
 }
@@ -191,11 +189,6 @@ button.big-button:active::before {
   background: rgb(251, 251, 32);
   border-radius: 10px;
 }
-
-/* Handle on hover */
-/* #search-results::-webkit-scrollbar-thumb:hover {
-  background: #fbaa26;
-} */
 
 hr {
   border-top: 3px solid rgb(251, 251, 32);

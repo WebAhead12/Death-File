@@ -8,6 +8,7 @@ searchinput.addEventListener("keyup", () => {
     document.querySelector(".input-wrapper").style["border-radius"] = "0.5rem";
     document.querySelector("hr").style["display"] = "none";
     searchresult.innerHTML = "";
+
   } else {
     document.querySelector(".input-wrapper").style["border-radius"] =
       " 0.5rem 0.5rem 0 0";
@@ -29,6 +30,10 @@ function getAnimeNames() {
       return response.json();
     })
     .then((data) => {
+      if (data.length === 0) {
+        document.querySelector(".input-wrapper").style["border-radius"] = "0.5rem";
+        document.querySelector("hr").style["display"] = "none";
+      }
       // console.log(data);
       buildList(data);
     })
