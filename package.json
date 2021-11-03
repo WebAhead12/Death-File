@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/WebAhead12/anime_project/issues"
   },
-  "homepage": "https://github.com/WebAhead12/anime_project#readme"
+  "homepage": "https://github.com/WebAhead12/anime_project#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
 }
