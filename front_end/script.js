@@ -1,18 +1,17 @@
 const searchinput = document.querySelector("#search-input");
 const searchresult = document.querySelector("#search-results");
 const close = document.querySelector("#closeIcon");
-
+const inputwrapper = document.querySelector(".input-wrapper");
+const hr = document.querySelector("hr");
 searchinput.addEventListener("keyup", () => {
   searchresult.innerHTML = "";
   if (searchinput.value == "") {
-    document.querySelector(".input-wrapper").style["border-radius"] = "0.5rem";
-    document.querySelector("hr").style["display"] = "none";
+    inputwrapper.style["border-radius"] = "0.5rem";
+    hr.style["display"] = "none";
     searchresult.innerHTML = "";
-
   } else {
-    document.querySelector(".input-wrapper").style["border-radius"] =
-      " 0.5rem 0.5rem 0 0";
-    document.querySelector("hr").style["display"] = "block";
+    inputwrapper.style["border-radius"] = " 0.5rem 0.5rem 0 0";
+    hr.style["display"] = "block";
     getAnimeNames();
   }
 });
