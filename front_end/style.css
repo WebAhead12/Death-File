@@ -2,12 +2,12 @@
 
 * {
   font-size: 1.5rem;
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-  *::before,
-  *::after {
-    box-sizing: border-box;
-  }
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
 .input-wrapper {
   width: 100%;
@@ -44,7 +44,6 @@ input {
   --colorShadeD: rgb(187, 232, 211);
   --colorShadeE: rgb(205, 255, 232);
 }
-
 
 body {
   font-family: "OpenSans", sans-serif;
@@ -121,10 +120,8 @@ button.big-button:active::before {
 }
 
 .search-title {
-  text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000,
-    0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000,
-    0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000,
-    0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000,
+  text-shadow: 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000,
+    0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000, 0 0 2px #000,
     0 0 2px #000;
 
   /* color: #f0b2a8; */
@@ -141,6 +138,7 @@ button.big-button:active::before {
 .main {
   display: flex;
   flex-wrap: wrap-reverse;
+  align-items: flex-end;
   margin-bottom: auto;
 }
 .results-wrapper {
