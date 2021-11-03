@@ -1,15 +1,24 @@
+@media (min-width: 590px) {
+  .search-title {
+   line-height: 100%;
+ }
+}
 @media (min-width: 320px) and (max-width: 589px) {
 .search-title {
   font-size: 30px;
-
- 
 }
+
+/* entire searchbar + icons sans placeholder text */
+.input-wrapper {
+  height:50px;
+  width:80vw;
+}
+
 
   .results-wrapper {
 margin: 40px auto;
 width:unset;
   }
-
 
   /* //icons */
 #searchIcon {
@@ -37,26 +46,12 @@ width:unset;
     font-size: 20px;
   }
 
-/* entire searchbar + icons sans placeholder text */
-.input-wrapper {
-  height:50px;
-  width:80vw;
-}
-
-
 button {
   margin: auto;
   display: flex;
   position: relative;
 
   font-size: 15px;
-}
-
-} 
-
-@media (min-width: 590px) {
- .search-title {
-  line-height: 100%;
 }
 
 }
