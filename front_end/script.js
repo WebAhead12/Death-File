@@ -29,7 +29,7 @@ window.addEventListener("click", () => {
   hr.style["display"] = "none";
   searchresult.innerHTML = "";
 });
-document.querySelector(".result-wrapper").addEventListener("click", (event) => {
+document.querySelector(".results-wrapper").addEventListener("click", (event) => {
   event.stopPropagation();
 });
 function getAnimeNames() {
