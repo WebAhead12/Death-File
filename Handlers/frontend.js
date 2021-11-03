@@ -17,7 +17,6 @@ function frontEndHandler(request, response) {
 
   // home directory is one level above this, so we need the ".."
   const filePath = path.join(__dirname, "..", url);
-  console.log(filePath);
   fs.readFile(filePath, (error, file) => {
     if (error) {
       console.log(error);
