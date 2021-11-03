@@ -89,6 +89,7 @@ textarea {
 }
 .input-wrapper {
   width: 40%;
+  height: 90px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -141,6 +142,7 @@ body {
   background: var(--backgroundColor);
 }
 button {
+  margin-left: 30px;
   position: relative;
   display: inline-block;
   cursor: pointer;
@@ -148,7 +150,7 @@ button {
   border: 0;
   vertical-align: middle;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: var(--colorShadeA);
   font-weight: 700;
   text-transform: uppercase;
