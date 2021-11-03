@@ -9,7 +9,8 @@ searchinput.addEventListener("keyup", () => {
     document.querySelector("hr").style["display"] = "none";
     searchresult.innerHTML = "";
   } else {
-    document.querySelector(".input-wrapper").style["border-radius"] = " 0.5rem 0.5rem 0 0";
+    document.querySelector(".input-wrapper").style["border-radius"] =
+      " 0.5rem 0.5rem 0 0";
     document.querySelector("hr").style["display"] = "block";
     getAnimeNames();
   }
@@ -18,8 +19,7 @@ searchinput.addEventListener("keyup", () => {
 close.addEventListener("click", () => {
   console.log(searchinput);
   searchinput.value = "";
-})
-
+});
 
 function getAnimeNames() {
   fetch(`data/${searchinput.value}`)
