@@ -49,6 +49,7 @@ function getAnimeNames() {
     })
     .catch((error) => {
       console.error(error);
+      alert("Something went wrong when trying to get the data, refresh or try again later")
     });
 }
 
