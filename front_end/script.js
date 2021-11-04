@@ -3,7 +3,14 @@ const searchresult = document.querySelector("#search-results");
 const close = document.querySelector("#closeIcon");
 const inputwrapper = document.querySelector(".input-wrapper");
 const hr = document.querySelector("hr");
+const google = document.querySelector(".big-button");
 
+google.addEventListener("click", () => {
+  if (searchinput.value != "") {
+    window.open(`https://www.google.com/search?q=${searchinput.value}&oq=${searchinput.value}&aqs=chrome..69i57j46i433i512j69i65l3j69i60l3.3127j0j7&sourceid=chrome&ie=UTF-8
+    `);
+  }
+});
 //Shows the search results if the search bar is not empty
 searchinput.addEventListener("keyup", () => {
   searchresult.innerHTML = "";
@@ -13,7 +20,7 @@ searchinput.addEventListener("keyup", () => {
     hr.style["display"] = "none";
     searchresult.innerHTML = "";
   } else {
-    //This gives the search bar a specific border radius when the results box is not empty 
+    //This gives the search bar a specific border radius when the results box is not empty
     inputwrapper.style["border-radius"] = " 0.5rem 0.5rem 0 0";
     hr.style["display"] = "block";
     getAnimeNames();
@@ -37,12 +44,13 @@ window.addEventListener("click", () => {
 searchinput.addEventListener("click", () => {
   //as long as the search input is not empty, the hr & border radius will work
   if (searchinput.value != "") {
+    searchresult.innerHTML = "";
     getAnimeNames();
     searchresult.style.display = "flex";
     inputwrapper.style["border-radius"] = " 0.5rem 0.5rem 0 0";
     hr.style["display"] = "block";
   }
-})
+});
 // disables the search results box from closing when you click on something inside the results box.
 document.querySelector(".results-wrapper").addEventListener("click", (event) => {
   event.stopPropagation();
@@ -67,7 +75,7 @@ function getAnimeNames() {
     })
     .catch((error) => {
       console.error(error);
-      alert("Something went wrong when trying to get the data, refresh or try again later")
+      alert("Something went wrong when trying to get the data, refresh or try again later");
     });
 }
 //creates the search results
@@ -88,4 +96,3 @@ function buildList(data) {
     });
   });
 }
-
