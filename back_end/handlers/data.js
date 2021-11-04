@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const dataObject = require("../back_end/dataObject.js");
+const dataObject = require("../dataObject.js");
 // const AUTOCOMPLETE_LENGTH = 8;
 function dataHandler(request, response) {
   const url = request.url;

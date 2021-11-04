@@ -1,8 +1,8 @@
 // put .. so we can go back into anime_project, then go into handlers, then home.
-const homeHandler = require("../Handlers/home");
-const missingHandler = require("../Handlers/missing");
-const frontEndHandler = require("../Handlers/frontend");
-const dataHandler = require("../Handlers/data.js");
+const homeHandler = require("./handlers/home");
+const missingHandler = require("./handlers/missing");
+const frontEndHandler = require("./handlers/frontend");
+const dataHandler = require("./handlers/data.js");
 
 function router(request, response) {
   const url = request.url;

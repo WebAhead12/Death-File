@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 function homeHandler(request, response) {
-  const filePath = path.join(__dirname, "..", "front_end", "index.html");
+  const filePath = path.join(__dirname, "../..", "front_end", "index.html");
   fs.readFile(filePath, (error, file) => {
     if (error) {
       console.log(error);
