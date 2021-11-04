@@ -32,7 +32,8 @@ window.addEventListener("click", () => {
 searchinput.addEventListener("click", () => {
   //as long as the search input is not empty, the hr & border radius will work
   if (searchinput.value != "") {
-    searchresult.style.display = "block";
+    getAnimeNames();
+    searchresult.style.display = "flex";
     inputwrapper.style["border-radius"] = " 0.5rem 0.5rem 0 0";
     hr.style["display"] = "block";
   }
@@ -70,7 +71,12 @@ function buildList(data) {
     resultbox["textContent"] = element;
     console.log(resultbox);
     searchresult.appendChild(resultbox);
-    // resultbox.addEventListener("click", getAnimeNames());
+    resultbox.addEventListener("click", () => {
+      searchinput.value = resultbox.textContent;
+      inputwrapper.style["border-radius"] = "0.5rem";
+      hr.style["display"] = "none";
+      searchresult.innerHTML = "";
+    });
   });
 }
 // result-box (class name for earch results)
