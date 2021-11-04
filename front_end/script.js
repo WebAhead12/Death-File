@@ -24,11 +24,20 @@ close.addEventListener("click", () => {
 });
 
 window.addEventListener("click", () => {
-  searchinput.value = "";
+  // searchinput.value = "";
   inputwrapper.style["border-radius"] = "0.5rem";
   hr.style["display"] = "none";
-  searchresult.innerHTML = "";
+  searchresult.style.display = "none";
 });
+searchinput.addEventListener("click", () => {
+  //as long as the search input is not empty, the hr & border radius will work
+  if (searchinput.value != "") {
+    searchresult.style.display = "block";
+    inputwrapper.style["border-radius"] = " 0.5rem 0.5rem 0 0";
+    hr.style["display"] = "block";
+  }
+})
+
 document.querySelector(".results-wrapper").addEventListener("click", (event) => {
   event.stopPropagation();
 });
