@@ -40,7 +40,6 @@ window.addEventListener("click", () => {
   hr.style["display"] = "none";
   searchresult.style.display = "none";
 });
-<<<<<<< Updated upstream
 
 searchinput.addEventListener("click", () => {
   //as long as the search input is not empty, the hr & border radius will work
@@ -58,13 +57,7 @@ document.querySelector(".results-wrapper").addEventListener("click", (event) => 
 });
 
 //fetch the hardcoded anime names in dataObject.js in the handler fodler.
-=======
-document
-  .querySelector(".results-wrapper")
-  .addEventListener("click", (event) => {
-    event.stopPropagation();
-  });
->>>>>>> Stashed changes
+
 function getAnimeNames() {
   fetch(`data/${searchinput.value}`)
     .then((response) => {
